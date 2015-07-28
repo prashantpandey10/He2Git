@@ -1,7 +1,24 @@
-from selenium import webdriver
+from sys import argv
+
+selenium_present = True
+
+try:
+    from selenium import webdriver
+  
+except ImportError:
+    selenium_present = False
+if not selenium_present:
+    print '''Please install python package "selenium" to use HEtoGit'''
+    exit(0)
+
+if len(argv) < 2:
+    print 'Usage: hetogit.py <username>'
+    exit(0)
+else:
+    username = argv[1]
 
 browser=webdriver.Firefox()
-url="https://www.hackerearth.com/submissions/prashantpandeyfun10/"  # append your username instead of mine!
+url="https://www.hackerearth.com/submissions/{0}/".format(username)
 browser.get(url)                                                    # This opens a firefox console  
 browser.implicitly_wait(20)
 
@@ -17,7 +34,10 @@ you scroll for 5 times you will see "View More" button so you need
 to click it to load more data
 """
 while not end.is_displayed():
-    webdriver.ActionChains(browser).move_to_element(viewbut).click(viewbut).perform()
+    try:
+        webdriver.ActionChains(browser).move_to_element(viewbut).click(viewbut).perform()
+    except Exception:
+        pass
 
 """ 
 alllinks store all links to my solution
@@ -29,12 +49,11 @@ allproblems=browser.find_elements_by_xpath("//a[contains(@class,'no-color hover-
 allmarks=browser.find_elements_by_xpath("//div[contains(@class,'tool-tip')]")
 
 # Written all scraped data to file.
-it=1
-f=open("hetogit.txt",'wb')
-for i,j,k in zip(allproblems,allmarks,alllinks):
-    if "correct-submission tool-tip" in j.get_attribute("outerHTML"):
-        f.write(str(it)+"  ")
-        f.write(i.text+"    ")
-        f.write(k.get_attribute("href")+"  ")
-        f.write("\n\n")
-    it+=1
+solution_cnt=1
+with open("hetogit.txt",'wb') as f:
+    for problem, marks, link in zip(allproblems,allmarks,alllinks):
+        if "correct-submission tool-tip" in marks.get_attribute("outerHTML"):
+            problem_link = link.get_attribute("href")
+            data = "{0} {1}    {2}\n\n".format(solution_cnt, problem.text, problem_link)
+            f.write(data)
+        solution_cnt+=1
