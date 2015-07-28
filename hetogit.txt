@@ -1,0 +1,1402 @@
+1  Crazy Function    https://www.hackerearth.com/submission/2146887/  
+
+2  Crazy Function    https://www.hackerearth.com/submission/2146883/  
+
+3  Answer to life, the universe and everything    https://www.hackerearth.com/submission/2146649/  
+
+4  Order in Postfix Expression    https://www.hackerearth.com/submission/2146607/  
+
+5  Selection of Cities    https://www.hackerearth.com/submission/2146467/  
+
+6  Selection of Cities    https://www.hackerearth.com/submission/2146441/  
+
+7  Count Carry Problem    https://www.hackerearth.com/submission/2146073/  
+
+8  Will Rick survive or not    https://www.hackerearth.com/submission/2145519/  
+
+10  Repeated SubString    https://www.hackerearth.com/submission/2145300/  
+
+11  The art of verification    https://www.hackerearth.com/submission/2145223/  
+
+12  Finding present    https://www.hackerearth.com/submission/2143473/  
+
+13  Rahul's Logo    https://www.hackerearth.com/submission/2143454/  
+
+14  Infix to Postfix    https://www.hackerearth.com/submission/2143434/  
+
+15  Digit Lover - 2    https://www.hackerearth.com/submission/2143309/  
+
+16  Name Cutter    https://www.hackerearth.com/submission/2143285/  
+
+17  Binary Search    https://www.hackerearth.com/submission/2143265/  
+
+18  Little Jhool - the Devdas    https://www.hackerearth.com/submission/2142931/  
+
+21  Trick with the cards    https://www.hackerearth.com/submission/2142244/  
+
+23  Intelligent Girl    https://www.hackerearth.com/submission/2142019/  
+
+24  SKIT's Patties    https://www.hackerearth.com/submission/2130009/  
+
+25  SKIT's Patties    https://www.hackerearth.com/submission/2129991/  
+
+26  Refreshed Mind    https://www.hackerearth.com/submission/2129782/  
+
+29  Refreshed Mind    https://www.hackerearth.com/submission/2129749/  
+
+30  4 - Batman    https://www.hackerearth.com/submission/2129501/  
+
+32  Car Names    https://www.hackerearth.com/submission/2129425/  
+
+33  Little Kuldeep and contests.    https://www.hackerearth.com/submission/2129383/  
+
+34  Find Pairs    https://www.hackerearth.com/submission/2129322/  
+
+35  Who Wants to Be a Millionaire!?    https://www.hackerearth.com/submission/2127389/  
+
+37  fun with fibonacci    https://www.hackerearth.com/submission/2123565/  
+
+38  the treasure lock    https://www.hackerearth.com/submission/2123449/  
+
+40  higher multiples of triangular numbers    https://www.hackerearth.com/submission/2122844/  
+
+42  Akash and the Assignment 1    https://www.hackerearth.com/submission/2110405/  
+
+43  Akash and the Assignment 1    https://www.hackerearth.com/submission/2110357/  
+
+44  Joker    https://www.hackerearth.com/submission/2110298/  
+
+46  Holes in Character    https://www.hackerearth.com/submission/2104786/  
+
+47  Subly Goes Binary    https://www.hackerearth.com/submission/2104687/  
+
+48  Diti and Friends    https://www.hackerearth.com/submission/2103706/  
+
+51  Array    https://www.hackerearth.com/submission/2102621/  
+
+52  The Enlightened Ones    https://www.hackerearth.com/submission/2100873/  
+
+53  The Enlightened Ones    https://www.hackerearth.com/submission/2100790/  
+
+56  Marut and Strings    https://www.hackerearth.com/submission/2085448/  
+
+57  Queue using Linked List    https://www.hackerearth.com/submission/2084903/  
+
+58  Sum of Digits    https://www.hackerearth.com/submission/2084861/  
+
+59  Unusual Blocks    https://www.hackerearth.com/submission/2083806/  
+
+61  bhargav and gre    https://www.hackerearth.com/submission/2083740/  
+
+63  Monk and Match Making    https://www.hackerearth.com/submission/2083730/  
+
+64  Monk and Match Making    https://www.hackerearth.com/submission/2083727/  
+
+65  Monk and Match Making    https://www.hackerearth.com/submission/2083052/  
+
+66  Monk and Match Making    https://www.hackerearth.com/submission/2083034/  
+
+67  Addition Infix into Postfix    https://www.hackerearth.com/submission/2083029/  
+
+68  Listing Names    https://www.hackerearth.com/submission/2082858/  
+
+69  Army Of Imps    https://www.hackerearth.com/submission/2082749/  
+
+70  Candies    https://www.hackerearth.com/submission/2079307/  
+
+71  Friendless Dr. Sheldon Cooper    https://www.hackerearth.com/submission/2079137/  
+
+72  Monk and Tasks    https://www.hackerearth.com/submission/2078978/  
+
+73  Monk and Match Making    https://www.hackerearth.com/submission/2078423/  
+
+75  Monk and the Collision    https://www.hackerearth.com/submission/2073744/  
+
+76  Prime Numbers    https://www.hackerearth.com/submission/2072559/  
+
+78  Beginner's Task-4    https://www.hackerearth.com/submission/2072551/  
+
+79  Beginner's Task-4    https://www.hackerearth.com/submission/2072546/  
+
+80  Beginner's Task-4    https://www.hackerearth.com/submission/2071910/  
+
+81  Beginner's Task-4    https://www.hackerearth.com/submission/2071834/  
+
+83  Strange Series    https://www.hackerearth.com/submission/2070110/  
+
+84  Party Game    https://www.hackerearth.com/submission/2070109/  
+
+85  Atul is back    https://www.hackerearth.com/submission/2070043/  
+
+86  Atul is back    https://www.hackerearth.com/submission/2070033/  
+
+87  Money Bank    https://www.hackerearth.com/submission/2070003/  
+
+88  Sumit and Indian currency    https://www.hackerearth.com/submission/2060881/  
+
+91  Sock Scramble    https://www.hackerearth.com/submission/2060628/  
+
+92  Stack using Linked List    https://www.hackerearth.com/submission/2060566/  
+
+93  The Confused Monk    https://www.hackerearth.com/submission/2060498/  
+
+94  Monk at the Graph Factory    https://www.hackerearth.com/submission/2060288/  
+
+95  Monk in the real estate    https://www.hackerearth.com/submission/2059969/  
+
+96  Sum of Power    https://www.hackerearth.com/submission/2059964/  
+
+97  Square Number    https://www.hackerearth.com/submission/2059953/  
+
+98  Weight Of String    https://www.hackerearth.com/submission/2059930/  
+
+99  Weight Of String    https://www.hackerearth.com/submission/2059905/  
+
+100  Weight Of String    https://www.hackerearth.com/submission/2059579/  
+
+101  Weight Of String    https://www.hackerearth.com/submission/2059572/  
+
+102  One in Zillion    https://www.hackerearth.com/submission/2059432/  
+
+103  Progression    https://www.hackerearth.com/submission/2059421/  
+
+104  Progression    https://www.hackerearth.com/submission/2059359/  
+
+105  Progression    https://www.hackerearth.com/submission/2059140/  
+
+106  Progression    https://www.hackerearth.com/submission/2058870/  
+
+107  Ranjan and his first question    https://www.hackerearth.com/submission/2058842/  
+
+108  Help The Friends of Roger    https://www.hackerearth.com/submission/2058840/  
+
+109  Palindromic Ciphers    https://www.hackerearth.com/submission/2058831/  
+
+119  Side Projects    https://www.hackerearth.com/submission/2054490/  
+
+120  Beta Testing    https://www.hackerearth.com/submission/2054476/  
+
+121  Valentine Shopping    https://www.hackerearth.com/submission/2054472/  
+
+122  Valentine Shopping    https://www.hackerearth.com/submission/2054293/  
+
+123  Valentine Shopping    https://www.hackerearth.com/submission/2053632/  
+
+124  Valentine Shopping    https://www.hackerearth.com/submission/2051157/  
+
+125  Marut and Girls    https://www.hackerearth.com/submission/2037438/  
+
+126  Naughty Subly    https://www.hackerearth.com/submission/2037376/  
+
+127  The Cake's walk    https://www.hackerearth.com/submission/2031520/  
+
+128  The rise of the weird... things [1]    https://www.hackerearth.com/submission/2031487/  
+
+129  The rise of the weird... things [1]    https://www.hackerearth.com/submission/2010706/  
+
+130  Find mode    https://www.hackerearth.com/submission/2000266/  
+
+131  Monk's Birthday Party    https://www.hackerearth.com/submission/2000248/  
+
+132  Monk and the Magical Candy Bags    https://www.hackerearth.com/submission/2000242/  
+
+133  Aditya's Love for Strings    https://www.hackerearth.com/submission/2000212/  
+
+134  Lucifer Needs Help    https://www.hackerearth.com/submission/2000178/  
+
+135  Lucifer Needs Help    https://www.hackerearth.com/submission/2000118/  
+
+137  Choosing the Judges    https://www.hackerearth.com/submission/1999829/  
+
+138  Finding Dinosaurs    https://www.hackerearth.com/submission/1999815/  
+
+139  Hack It !    https://www.hackerearth.com/submission/1997501/  
+
+140  Roy and Trains    https://www.hackerearth.com/submission/1997416/  
+
+141  Roy and Trains    https://www.hackerearth.com/submission/1997215/  
+
+142  Evaluate Postfix Expression    https://www.hackerearth.com/submission/1997182/  
+
+143  Greater Bigger    https://www.hackerearth.com/submission/1997052/  
+
+144  Count Carry Problem    https://www.hackerearth.com/submission/1996955/  
+
+146  Game of Thornes    https://www.hackerearth.com/submission/1996933/  
+
+147  Handshakers Gonna Shake Shake Shake Shake Shake    https://www.hackerearth.com/submission/1995609/  
+
+150  Divisors    https://www.hackerearth.com/submission/1994699/  
+
+151  Divisors    https://www.hackerearth.com/submission/1994416/  
+
+152  Divisors    https://www.hackerearth.com/submission/1994407/  
+
+153  Remove Duplicates    https://www.hackerearth.com/submission/1993169/  
+
+154  Substring    https://www.hackerearth.com/submission/1992631/  
+
+156  The String Question    https://www.hackerearth.com/submission/1992624/  
+
+157  The String Question    https://www.hackerearth.com/submission/1992134/  
+
+158  The String Question    https://www.hackerearth.com/submission/1992122/  
+
+159  Power House    https://www.hackerearth.com/submission/1992079/  
+
+160  Matrix Symmetry    https://www.hackerearth.com/submission/1992034/  
+
+161  CODEMET 5    https://www.hackerearth.com/submission/1991298/  
+
+163  Answer to life, the universe and everything    https://www.hackerearth.com/submission/1990856/  
+
+164  Queue using Arrays    https://www.hackerearth.com/submission/1990855/  
+
+165  Monitor Raju    https://www.hackerearth.com/submission/1990842/  
+
+166  Matching Strings    https://www.hackerearth.com/submission/1990834/  
+
+167  Cost of Data    https://www.hackerearth.com/submission/1990825/  
+
+168  Criminals: Little Deepu and Little Kuldeep    https://www.hackerearth.com/submission/1990817/  
+
+169  Criminals: Little Deepu and Little Kuldeep    https://www.hackerearth.com/submission/1990771/  
+
+170  Positive Integers    https://www.hackerearth.com/submission/1990607/  
+
+171  Positive Integers    https://www.hackerearth.com/submission/1990515/  
+
+172  Roy and Cipher Disk    https://www.hackerearth.com/submission/1990443/  
+
+173  Chandu and his Girlfriend Returns    https://www.hackerearth.com/submission/1990413/  
+
+174  Chandu and his Girlfriend Returns    https://www.hackerearth.com/submission/1990352/  
+
+175  Chandu and his Girlfriend Returns    https://www.hackerearth.com/submission/1988064/  
+
+176  Chandu and his Girlfriend Returns    https://www.hackerearth.com/submission/1988060/  
+
+177  Bytelandian Gold Coins    https://www.hackerearth.com/submission/1988051/  
+
+181  Monk and Power of Time    https://www.hackerearth.com/submission/1987992/  
+
+182  Stack using Arrays    https://www.hackerearth.com/submission/1987974/  
+
+183  The Count    https://www.hackerearth.com/submission/1987964/  
+
+184  Crazy Smoker    https://www.hackerearth.com/submission/1987832/  
+
+185  Mystery 9    https://www.hackerearth.com/submission/1987831/  
+
+186  Atul's Billing Confusion    https://www.hackerearth.com/submission/1987426/  
+
+187  Matching Strings    https://www.hackerearth.com/submission/1987356/  
+
+188  Great Arjit and Numbers    https://www.hackerearth.com/submission/1987196/  
+
+189  Vowel    https://www.hackerearth.com/submission/1987136/  
+
+191  Beautiful Strings    https://www.hackerearth.com/submission/1986921/  
+
+192  Beautiful Strings    https://www.hackerearth.com/submission/1986888/  
+
+193  Bob the Builder's Problem    https://www.hackerearth.com/submission/1986462/  
+
+195  Count the characters    https://www.hackerearth.com/submission/1986249/  
+
+196  Count the characters    https://www.hackerearth.com/submission/1986234/  
+
+198  PROBLEM 7    https://www.hackerearth.com/submission/1985023/  
+
+200  Speed    https://www.hackerearth.com/submission/1984876/  
+
+201  Speed    https://www.hackerearth.com/submission/1981963/  
+
+202  Speed    https://www.hackerearth.com/submission/1981475/  
+
+203  Speed    https://www.hackerearth.com/submission/1981418/  
+
+204  Panda and Numbers    https://www.hackerearth.com/submission/1981409/  
+
+205  v-number    https://www.hackerearth.com/submission/1981383/  
+
+206  archith and roman    https://www.hackerearth.com/submission/1981378/  
+
+207  choclate weight    https://www.hackerearth.com/submission/1981364/  
+
+208  Roy and Counting Sorted Substrings    https://www.hackerearth.com/submission/1981362/  
+
+209  Division Problem    https://www.hackerearth.com/submission/1981343/  
+
+210  #MayForever    https://www.hackerearth.com/submission/1980808/  
+
+217  ankur & marbles    https://www.hackerearth.com/submission/1978711/  
+
+218  ankur & marbles    https://www.hackerearth.com/submission/1978620/  
+
+219  Contact list    https://www.hackerearth.com/submission/1978490/  
+
+220  Crushing Violence    https://www.hackerearth.com/submission/1978355/  
+
+221  Crushing Violence    https://www.hackerearth.com/submission/1978315/  
+
+222  Crushing Violence    https://www.hackerearth.com/submission/1978281/  
+
+223  Hasan and his Tokens    https://www.hackerearth.com/submission/1976935/  
+
+227  256 Shades of Gray    https://www.hackerearth.com/submission/1973096/  
+
+230  Relief Operation    https://www.hackerearth.com/submission/1971345/  
+
+231  The Job Party    https://www.hackerearth.com/submission/1971335/  
+
+232  Mystery 11    https://www.hackerearth.com/submission/1971177/  
+
+233  Terminators    https://www.hackerearth.com/submission/1968521/  
+
+234  Intense love for mathematics    https://www.hackerearth.com/submission/1966952/  
+
+235  Mysterious ABD    https://www.hackerearth.com/submission/1965263/  
+
+236  Gajni    https://www.hackerearth.com/submission/1964879/  
+
+237  Can you XOR this?    https://www.hackerearth.com/submission/1964093/  
+
+240  Calculate the Power    https://www.hackerearth.com/submission/1964031/  
+
+241  no. of 1's & 0's    https://www.hackerearth.com/submission/1960427/  
+
+242  Infix to Prefix    https://www.hackerearth.com/submission/1954389/  
+
+243  Sorted String    https://www.hackerearth.com/submission/1954378/  
+
+244  Chandu and his Interns    https://www.hackerearth.com/submission/1954323/  
+
+245  The Magical Shop    https://www.hackerearth.com/submission/1954299/  
+
+246  Xsquare And Coin Collection    https://www.hackerearth.com/submission/1954217/  
+
+247  Xsquare And Coin Collection    https://www.hackerearth.com/submission/1954170/  
+
+250  Monk's Love for Food    https://www.hackerearth.com/submission/1950058/  
+
+251  Clock Mania    https://www.hackerearth.com/submission/1950046/  
+
+253  Climbing Stairs    https://www.hackerearth.com/submission/1950037/  
+
+254  Climbing Stairs    https://www.hackerearth.com/submission/1950035/  
+
+255  Raghav and matrices    https://www.hackerearth.com/submission/1950030/  
+
+256  Listing Names    https://www.hackerearth.com/submission/1950025/  
+
+257  Sum of numbers    https://www.hackerearth.com/submission/1950021/  
+
+258  Big P and Math    https://www.hackerearth.com/submission/1950017/  
+
+260  Magic Inversion    https://www.hackerearth.com/submission/1950009/  
+
+269  Traffic is a pain in the A**    https://www.hackerearth.com/submission/1949778/  
+
+271  Traffic is a pain in the A**    https://www.hackerearth.com/submission/1949775/  
+
+280  Pangram paradox    https://www.hackerearth.com/submission/1949624/  
+
+282  Head-chef Monica    https://www.hackerearth.com/submission/1949466/  
+
+283  Registrations    https://www.hackerearth.com/submission/1949223/  
+
+284  One Last Task    https://www.hackerearth.com/submission/1949193/  
+
+285  One Last Task    https://www.hackerearth.com/submission/1949189/  
+
+287  One Last Task    https://www.hackerearth.com/submission/1946933/  
+
+288  One Last Task    https://www.hackerearth.com/submission/1946724/  
+
+289  Weird Friends    https://www.hackerearth.com/submission/1946720/  
+
+290  Weird Friends    https://www.hackerearth.com/submission/1946637/  
+
+291  Weird Friends    https://www.hackerearth.com/submission/1946578/  
+
+292  Little Jhool and Brute Force    https://www.hackerearth.com/submission/1946511/  
+
+293  Mercy (Golf)    https://www.hackerearth.com/submission/1946497/  
+
+295  Game of Coins    https://www.hackerearth.com/submission/1946108/  
+
+296  Find the Students    https://www.hackerearth.com/submission/1944550/  
+
+297  Prateek and his Friends    https://www.hackerearth.com/submission/1944321/  
+
+298  Prateek and his Friends    https://www.hackerearth.com/submission/1943036/  
+
+299  Prateek and his Friends    https://www.hackerearth.com/submission/1942990/  
+
+300  Prateek and his Friends    https://www.hackerearth.com/submission/1942986/  
+
+301  Longest Increasing Path    https://www.hackerearth.com/submission/1942982/  
+
+302  Longest Increasing Path    https://www.hackerearth.com/submission/1942574/  
+
+303  Longest Increasing Path    https://www.hackerearth.com/submission/1942563/  
+
+304  Chandu and Consecutive Letters    https://www.hackerearth.com/submission/1942536/  
+
+305  Ashish and Binary Matrix    https://www.hackerearth.com/submission/1942374/  
+
+306  Swapping Game    https://www.hackerearth.com/submission/1942371/  
+
+307  Mahabir's queries    https://www.hackerearth.com/submission/1942353/  
+
+311  Roy and Birthday    https://www.hackerearth.com/submission/1939430/  
+
+312  Roy and Birthday    https://www.hackerearth.com/submission/1939423/  
+
+313  Roy and Birthday    https://www.hackerearth.com/submission/1939249/  
+
+314  DJ Boy and Phone    https://www.hackerearth.com/submission/1939101/  
+
+316  DJ Boy and Phone    https://www.hackerearth.com/submission/1939062/  
+
+320  Even Divisors    https://www.hackerearth.com/submission/1931538/  
+
+321  Even Divisors    https://www.hackerearth.com/submission/1930859/  
+
+325  Avengers Age of Ultron    https://www.hackerearth.com/submission/1922365/  
+
+327  The Old Monk    https://www.hackerearth.com/submission/1912138/  
+
+328  The Old Monk    https://www.hackerearth.com/submission/1912001/  
+
+329  The Old Monk    https://www.hackerearth.com/submission/1911968/  
+
+330  Monk's Encounter with Polynomial    https://www.hackerearth.com/submission/1911903/  
+
+331  Discover the Monk    https://www.hackerearth.com/submission/1887817/  
+
+332  Discover the Monk    https://www.hackerearth.com/submission/1887811/  
+
+333  Terrible Chandu    https://www.hackerearth.com/submission/1887555/  
+
+334  Chandu and his Girlfriend    https://www.hackerearth.com/submission/1887533/  
+
+335  Ram's Love for Sita    https://www.hackerearth.com/submission/1887511/  
+
+336  Student's Score    https://www.hackerearth.com/submission/1887496/  
+
+337  Free Drives    https://www.hackerearth.com/submission/1882122/  
+
+342  Very Cool Numbers    https://www.hackerearth.com/submission/1878556/  
+
+343  Very Cool Numbers    https://www.hackerearth.com/submission/1878282/  
+
+344  Very Cool Numbers    https://www.hackerearth.com/submission/1878047/  
+
+345  Very Cool Numbers    https://www.hackerearth.com/submission/1877181/  
+
+346  ZeroShark    https://www.hackerearth.com/submission/1877165/  
+
+347  Andrew and Max    https://www.hackerearth.com/submission/1876487/  
+
+348  ZeroShark    https://www.hackerearth.com/submission/1876355/  
+
+349  ZeroShark    https://www.hackerearth.com/submission/1876315/  
+
+350  ZeroShark    https://www.hackerearth.com/submission/1876040/  
+
+351  ZeroShark    https://www.hackerearth.com/submission/1876004/  
+
+352  Very Cool Numbers    https://www.hackerearth.com/submission/1873459/  
+
+353  Andrew and Max    https://www.hackerearth.com/submission/1873442/  
+
+354  Andrew and Max    https://www.hackerearth.com/submission/1873141/  
+
+355  Andrew and Max    https://www.hackerearth.com/submission/1872532/  
+
+356  Children Love Candies    https://www.hackerearth.com/submission/1870461/  
+
+357  Very Cool Numbers    https://www.hackerearth.com/submission/1870371/  
+
+358  Very Cool Numbers    https://www.hackerearth.com/submission/1866221/  
+
+359  Very Cool Numbers    https://www.hackerearth.com/submission/1866214/  
+
+360  Very Cool Numbers    https://www.hackerearth.com/submission/1866193/  
+
+361  Match makers    https://www.hackerearth.com/submission/1866164/  
+
+362  Match makers    https://www.hackerearth.com/submission/1865357/  
+
+363  Mehta and Beautiful Queries    https://www.hackerearth.com/submission/1865296/  
+
+364  How strong are your Integers ?    https://www.hackerearth.com/submission/1864842/  
+
+366  Recursive Sums    https://www.hackerearth.com/submission/1864123/  
+
+368  Integar Score    https://www.hackerearth.com/submission/1860364/  
+
+369  Integar Score    https://www.hackerearth.com/submission/1860335/  
+
+370  Vada Pav List    https://www.hackerearth.com/submission/1860321/  
+
+372  Number Mania    https://www.hackerearth.com/submission/1860289/  
+
+375  Game of Strings    https://www.hackerearth.com/submission/1860204/  
+
+377  Alook and Magic Spells    https://www.hackerearth.com/submission/1860186/  
+
+378  Rani and Nandu Play a Game    https://www.hackerearth.com/submission/1860158/  
+
+382  Let's Begin!    https://www.hackerearth.com/submission/1859017/  
+
+383  Inverse List    https://www.hackerearth.com/submission/1859016/  
+
+384  The Magic    https://www.hackerearth.com/submission/1858904/  
+
+385  The Magic    https://www.hackerearth.com/submission/1858894/  
+
+386  The Magic    https://www.hackerearth.com/submission/1858892/  
+
+387  The Magic    https://www.hackerearth.com/submission/1858801/  
+
+393  Just shut up!!!    https://www.hackerearth.com/submission/1858369/  
+
+394  You just went full retard. Never go full retard.    https://www.hackerearth.com/submission/1858368/  
+
+397  NcR - I    https://www.hackerearth.com/submission/1858356/  
+
+400  ICPC Team Management.    https://www.hackerearth.com/submission/1858222/  
+
+402  ICPC Team Management.    https://www.hackerearth.com/submission/1858191/  
+
+403  ICPC Team Management.    https://www.hackerearth.com/submission/1858181/  
+
+404  Problem 6    https://www.hackerearth.com/submission/1857084/  
+
+405  Biased Chandan    https://www.hackerearth.com/submission/1856863/  
+
+406  Sherlock and Numbers    https://www.hackerearth.com/submission/1856830/  
+
+408  Mystery    https://www.hackerearth.com/submission/1856790/  
+
+411  Start with Counting!    https://www.hackerearth.com/submission/1856774/  
+
+412  Amit and Cookies    https://www.hackerearth.com/submission/1856753/  
+
+413  Saturday == Golf Time ;)    https://www.hackerearth.com/submission/1856752/  
+
+414  Divide Array    https://www.hackerearth.com/submission/1856751/  
+
+415  Divide Array    https://www.hackerearth.com/submission/1856749/  
+
+416  Beginner's Task-5    https://www.hackerearth.com/submission/1856745/  
+
+417  Game of Thrones    https://www.hackerearth.com/submission/1853335/  
+
+419  Sister's Help    https://www.hackerearth.com/submission/1853316/  
+
+421  Sum of Digits    https://www.hackerearth.com/submission/1853310/  
+
+423  Second largest    https://www.hackerearth.com/submission/1853284/  
+
+424  Second largest    https://www.hackerearth.com/submission/1853280/  
+
+426  Reverse Primes    https://www.hackerearth.com/submission/1818144/  
+
+428  Reverse Primes    https://www.hackerearth.com/submission/1815230/  
+
+431  The Cipher    https://www.hackerearth.com/submission/1815012/  
+
+433  Nice or Not Nice - That is the question !    https://www.hackerearth.com/submission/1814994/  
+
+434  Gajodhar's Memory    https://www.hackerearth.com/submission/1814867/  
+
+435  Lazy Verma    https://www.hackerearth.com/submission/1814592/  
+
+436  Tour    https://www.hackerearth.com/submission/1810653/  
+
+437  Raj's Awesome sum (10 points)    https://www.hackerearth.com/submission/1810650/  
+
+438  Saxie and Strings    https://www.hackerearth.com/submission/1810595/  
+
+443  New game of Oz    https://www.hackerearth.com/submission/1810433/  
+
+449  2 Fast 2 Furious    https://www.hackerearth.com/submission/1808282/  
+
+450  The function problem    https://www.hackerearth.com/submission/1807551/  
+
+452  The function problem    https://www.hackerearth.com/submission/1807527/  
+
+453  The function problem    https://www.hackerearth.com/submission/1807508/  
+
+454  Most Frequent    https://www.hackerearth.com/submission/1807490/  
+
+460  Binary Weights    https://www.hackerearth.com/submission/1799739/  
+
+461  Simple Task III    https://www.hackerearth.com/submission/1799621/  
+
+462  Simple Task III    https://www.hackerearth.com/submission/1799517/  
+
+463  Simple Task III    https://www.hackerearth.com/submission/1799262/  
+
+464  Mystery 3!    https://www.hackerearth.com/submission/1798851/  
+
+465  Geeko and tree    https://www.hackerearth.com/submission/1792186/  
+
+466  Modify Sequence    https://www.hackerearth.com/submission/1792173/  
+
+467  Modify Sequence    https://www.hackerearth.com/submission/1792121/  
+
+468  Ikshu and his machine gun    https://www.hackerearth.com/submission/1759423/  
+
+471  Project Team    https://www.hackerearth.com/submission/1755948/  
+
+472  Panda and Chain Reaction    https://www.hackerearth.com/submission/1744104/  
+
+473  Panda and Combination    https://www.hackerearth.com/submission/1743961/  
+
+474  Panda and Maximum product    https://www.hackerearth.com/submission/1658787/  
+
+476  Xsquare And Two Strings    https://www.hackerearth.com/submission/1658343/  
+
+477  Xsquare And Palindromes Insertion    https://www.hackerearth.com/submission/1656751/  
+
+478  Little Jhool and his breakup    https://www.hackerearth.com/submission/1656589/  
+
+481  Mobile Conversations    https://www.hackerearth.com/submission/1655816/  
+
+482  Array Play    https://www.hackerearth.com/submission/1644882/  
+
+483  Dexter and Mandark    https://www.hackerearth.com/submission/1644876/  
+
+485  Xsquare And Double Strings    https://www.hackerearth.com/submission/1628971/  
+
+487  PrimeString    https://www.hackerearth.com/submission/1628880/  
+
+488  Non-Fibo    https://www.hackerearth.com/submission/1626877/  
+
+489  Battle Of Words    https://www.hackerearth.com/submission/1624032/  
+
+500  Find Me    https://www.hackerearth.com/submission/1616450/  
+
+501  Find Me    https://www.hackerearth.com/submission/1616368/  
+
+502  3- Bacteria Population    https://www.hackerearth.com/submission/1616339/  
+
+503  Delicious Pizza    https://www.hackerearth.com/submission/1616321/  
+
+510  Cricket Rating    https://www.hackerearth.com/submission/1600086/  
+
+511  Cricket Rating    https://www.hackerearth.com/submission/1599101/  
+
+512  Cricket Rating    https://www.hackerearth.com/submission/1599068/  
+
+513  NEURAL NETWORKS    https://www.hackerearth.com/submission/1599010/  
+
+518  101    https://www.hackerearth.com/submission/1586739/  
+
+520  101    https://www.hackerearth.com/submission/1586582/  
+
+522  ALICE AND TRIANGLE    https://www.hackerearth.com/submission/1586446/  
+
+523  Times Square    https://www.hackerearth.com/submission/1586441/  
+
+524  Times Square    https://www.hackerearth.com/submission/1586440/  
+
+525  Times Square    https://www.hackerearth.com/submission/1583021/  
+
+526  Times Square    https://www.hackerearth.com/submission/1582985/  
+
+529  Time Limit    https://www.hackerearth.com/submission/1581177/  
+
+532  Quick Transaction    https://www.hackerearth.com/submission/1579805/  
+
+533  Beginner's Task-2    https://www.hackerearth.com/submission/1579799/  
+
+534  Problem 5    https://www.hackerearth.com/submission/1579796/  
+
+539  Prime Rules !    https://www.hackerearth.com/submission/1571963/  
+
+541  Mind Palaces    https://www.hackerearth.com/submission/1570756/  
+
+542  Large Small Sum    https://www.hackerearth.com/submission/1570672/  
+
+544  Good Morning    https://www.hackerearth.com/submission/1570022/  
+
+545  Good Morning    https://www.hackerearth.com/submission/1569567/  
+
+546  Good Morning    https://www.hackerearth.com/submission/1569541/  
+
+547  Good Morning    https://www.hackerearth.com/submission/1569538/  
+
+548  Good Morning    https://www.hackerearth.com/submission/1560484/  
+
+549  Mystery 10    https://www.hackerearth.com/submission/1560470/  
+
+551  Back to Hostel    https://www.hackerearth.com/submission/1558327/  
+
+558  Captain Jack    https://www.hackerearth.com/submission/1540990/  
+
+559  Tables    https://www.hackerearth.com/submission/1540604/  
+
+562  The Secret Code    https://www.hackerearth.com/submission/1538833/  
+
+563  The Secret Code    https://www.hackerearth.com/submission/1521148/  
+
+565  Skipping Sum    https://www.hackerearth.com/submission/1520922/  
+
+566  Skipping Sum    https://www.hackerearth.com/submission/1520846/  
+
+567  Skipping Sum    https://www.hackerearth.com/submission/1520784/  
+
+568  Skipping Sum    https://www.hackerearth.com/submission/1520618/  
+
+569  Fibona - what ?    https://www.hackerearth.com/submission/1520581/  
+
+573  Balanced Strings    https://www.hackerearth.com/submission/1520314/  
+
+577  Palindrome as double string    https://www.hackerearth.com/submission/1514914/  
+
+578  Dipu and Interesting Numbers    https://www.hackerearth.com/submission/1514901/  
+
+579  Dipu and Interesting Numbers    https://www.hackerearth.com/submission/1513254/  
+
+580  Dipu and Interesting Numbers    https://www.hackerearth.com/submission/1511639/  
+
+581  Name string    https://www.hackerearth.com/submission/1509438/  
+
+582  Dipu and Interesting Numbers    https://www.hackerearth.com/submission/1509355/  
+
+583  Dipu and Interesting Numbers    https://www.hackerearth.com/submission/1509351/  
+
+584  Dipu and Interesting Numbers    https://www.hackerearth.com/submission/1509018/  
+
+585  Dipu and Interesting Numbers    https://www.hackerearth.com/submission/1509005/  
+
+586  Dipu and Interesting Numbers    https://www.hackerearth.com/submission/1508994/  
+
+589  Averages    https://www.hackerearth.com/submission/1508928/  
+
+598  Find the sum    https://www.hackerearth.com/submission/1495726/  
+
+599  Find the sum    https://www.hackerearth.com/submission/1495548/  
+
+600  Find the sum    https://www.hackerearth.com/submission/1495491/  
+
+603  Find the sum    https://www.hackerearth.com/submission/1493944/  
+
+604  Roy and Coin Boxes    https://www.hackerearth.com/submission/1493867/  
+
+606  Roy's Boolean Function    https://www.hackerearth.com/submission/1492247/  
+
+607  Roy and Matrix Sum    https://www.hackerearth.com/submission/1492120/  
+
+613  LuckyString    https://www.hackerearth.com/submission/1489841/  
+
+618  Gotta catch 'em all!    https://www.hackerearth.com/submission/1488891/  
+
+620  Matching Strings    https://www.hackerearth.com/submission/1488860/  
+
+621  The Triwizard Tournament    https://www.hackerearth.com/submission/1488850/  
+
+629  Contact list    https://www.hackerearth.com/submission/1481363/  
+
+630  Array's Problem    https://www.hackerearth.com/submission/1480981/  
+
+631  Anagram    https://www.hackerearth.com/submission/1480357/  
+
+634  Crack the math!    https://www.hackerearth.com/submission/1479775/  
+
+636  Chris Angle    https://www.hackerearth.com/submission/1479769/  
+
+637  Professor Sharma    https://www.hackerearth.com/submission/1479766/  
+
+638  Digit lover    https://www.hackerearth.com/submission/1479716/  
+
+639  Jim's String    https://www.hackerearth.com/submission/1479708/  
+
+640  Gandalf Lost    https://www.hackerearth.com/submission/1479075/  
+
+643  File Statistics    https://www.hackerearth.com/submission/1475562/  
+
+644  Fibonacci Trouble !    https://www.hackerearth.com/submission/1475263/  
+
+651  Binary factorial    https://www.hackerearth.com/submission/1466556/  
+
+654  A Coin Game    https://www.hackerearth.com/submission/1466420/  
+
+655  Distribution of Candies    https://www.hackerearth.com/submission/1463049/  
+
+656  Numbers of Interest    https://www.hackerearth.com/submission/1463037/  
+
+658  Square Transaction    https://www.hackerearth.com/submission/1462888/  
+
+661  Xsquare And Balanced Strings    https://www.hackerearth.com/submission/1462781/  
+
+664  Hitman and XOR    https://www.hackerearth.com/submission/1456783/  
+
+665  Mark the stairs.    https://www.hackerearth.com/submission/1439705/  
+
+666  Mark the stairs.    https://www.hackerearth.com/submission/1439695/  
+
+667  Mark the stairs.    https://www.hackerearth.com/submission/1439681/  
+
+668  Robot challenge    https://www.hackerearth.com/submission/1439676/  
+
+677  Largest Lexicographical Rotation II    https://www.hackerearth.com/submission/1436540/  
+
+678  PROBLEM 1    https://www.hackerearth.com/submission/1436532/  
+
+679  The Strongest String - 1    https://www.hackerearth.com/submission/1429749/  
+
+680  The Strongest String - 1    https://www.hackerearth.com/submission/1428882/  
+
+681  The Strongest String - 1    https://www.hackerearth.com/submission/1428712/  
+
+693  Sherlock and Inversions    https://www.hackerearth.com/submission/1422144/  
+
+697  Prom Night    https://www.hackerearth.com/submission/1410242/  
+
+698  Number of R's    https://www.hackerearth.com/submission/1410232/  
+
+699  Number of R's    https://www.hackerearth.com/submission/1410229/  
+
+700  Number of R's    https://www.hackerearth.com/submission/1410219/  
+
+701  Number of R's    https://www.hackerearth.com/submission/1410204/  
+
+702  Panda and XOR    https://www.hackerearth.com/submission/1409808/  
+
+704  Decimal Help    https://www.hackerearth.com/submission/1409775/  
+
+705  Toss the Prime    https://www.hackerearth.com/submission/1409513/  
+
+706  Ladder to Heaven    https://www.hackerearth.com/submission/1409136/  
+
+707  Ladder to Heaven    https://www.hackerearth.com/submission/1408702/  
+
+708  Ladder to Heaven    https://www.hackerearth.com/submission/1400986/  
+
+709  Ladder to Heaven    https://www.hackerearth.com/submission/1400969/  
+
+710  Ladder to Heaven    https://www.hackerearth.com/submission/1400856/  
+
+711  Big values    https://www.hackerearth.com/submission/1400646/  
+
+712  Zeros in Factorial    https://www.hackerearth.com/submission/1400637/  
+
+713  Zeros in Factorial    https://www.hackerearth.com/submission/1400630/  
+
+714  Zeros in Factorial    https://www.hackerearth.com/submission/1400096/  
+
+715  Counting Triangles    https://www.hackerearth.com/submission/1397827/  
+
+716  Studious Little Jhool!    https://www.hackerearth.com/submission/1397821/  
+
+717  Digit-e-Digit    https://www.hackerearth.com/submission/1397544/  
+
+718  Find Me Roots    https://www.hackerearth.com/submission/1397515/  
+
+719  Game Of Strengths    https://www.hackerearth.com/submission/1397508/  
+
+720  Jindal and Series    https://www.hackerearth.com/submission/1397434/  
+
+721  Are they the same?    https://www.hackerearth.com/submission/1396268/  
+
+725  PROBLEM 5    https://www.hackerearth.com/submission/1396028/  
+
+726  Shinchan and his Girlfriend    https://www.hackerearth.com/submission/1396020/  
+
+727  Khichar and his Project.    https://www.hackerearth.com/submission/1396019/  
+
+728  Khichar and his Project.    https://www.hackerearth.com/submission/1396017/  
+
+729  Khichar and his Project.    https://www.hackerearth.com/submission/1395825/  
+
+730  Coach and Messi    https://www.hackerearth.com/submission/1395804/  
+
+731  ANDI AND BOB    https://www.hackerearth.com/submission/1395737/  
+
+732  ANDI AND BOB    https://www.hackerearth.com/submission/1395694/  
+
+733  Hypothetical Numbers    https://www.hackerearth.com/submission/1394229/  
+
+734  Story of two friends    https://www.hackerearth.com/submission/1394136/  
+
+736  SOFTSORT    https://www.hackerearth.com/submission/1388836/  
+
+737  SOFTSORT    https://www.hackerearth.com/submission/1386382/  
+
+740  Mike And His Guitar Collection    https://www.hackerearth.com/submission/1381684/  
+
+741  Mike And His Guitar Collection    https://www.hackerearth.com/submission/1379403/  
+
+742  Fun WIth Mangoes    https://www.hackerearth.com/submission/1379393/  
+
+745  Factor Game    https://www.hackerearth.com/submission/1379077/  
+
+746  Tweety and Silvester    https://www.hackerearth.com/submission/1378859/  
+
+749  PROBLEM 2    https://www.hackerearth.com/submission/1378765/  
+
+754  Chandler needs the Number    https://www.hackerearth.com/submission/1371693/  
+
+755  Chandler needs the Number    https://www.hackerearth.com/submission/1371665/  
+
+757  Chandler needs the Number    https://www.hackerearth.com/submission/1371270/  
+
+758  Boxes    https://www.hackerearth.com/submission/1371254/  
+
+762  PROBLEM 6    https://www.hackerearth.com/submission/1369140/  
+
+763  F.R.I.E.N.D.S    https://www.hackerearth.com/submission/1368810/  
+
+764  F.R.I.E.N.D.S    https://www.hackerearth.com/submission/1368435/  
+
+766  F.R.I.E.N.D.S    https://www.hackerearth.com/submission/1366410/  
+
+767  F.R.I.E.N.D.S    https://www.hackerearth.com/submission/1366398/  
+
+769  Xenny and Questions    https://www.hackerearth.com/submission/1366290/  
+
+771  Part Time Job    https://www.hackerearth.com/submission/1366228/  
+
+772  Strategic Warehouse placements    https://www.hackerearth.com/submission/1366201/  
+
+776  Can You Distribute ?    https://www.hackerearth.com/submission/1365098/  
+
+777  Sherlock Holmes    https://www.hackerearth.com/submission/1363877/  
+
+778  Language Barrier    https://www.hackerearth.com/submission/1363854/  
+
+779  Save Gotham    https://www.hackerearth.com/submission/1363845/  
+
+781  PROBLEM 4    https://www.hackerearth.com/submission/1363636/  
+
+782  Sorting the String    https://www.hackerearth.com/submission/1363624/  
+
+783  Sorting the String    https://www.hackerearth.com/submission/1363571/  
+
+784  Generate Z    https://www.hackerearth.com/submission/1363352/  
+
+788  Troubling Triple    https://www.hackerearth.com/submission/1363033/  
+
+790  Problem 7    https://www.hackerearth.com/submission/1360170/  
+
+791  BLACKBOX-2    https://www.hackerearth.com/submission/1357377/  
+
+792  Cheap Chocolate Cuisine    https://www.hackerearth.com/submission/1357375/  
+
+793  Bran's Hodor    https://www.hackerearth.com/submission/1357195/  
+
+798  Double Factorial    https://www.hackerearth.com/submission/1356604/  
+
+799  Range Query    https://www.hackerearth.com/submission/1354447/  
+
+800  FOO AND EXAMS    https://www.hackerearth.com/submission/1354428/  
+
+801  FOO AND EXAMS    https://www.hackerearth.com/submission/1352076/  
+
+802  Copytam Da    https://www.hackerearth.com/submission/1351941/  
+
+803  FOO AND EXAMS    https://www.hackerearth.com/submission/1351797/  
+
+805  Get The 1    https://www.hackerearth.com/submission/1351782/  
+
+808  Get The 1    https://www.hackerearth.com/submission/1349970/  
+
+809  Aniruddha's Queue    https://www.hackerearth.com/submission/1349689/  
+
+810  Aniruddha's Queue    https://www.hackerearth.com/submission/1349173/  
+
+811  Aniruddha's Queue    https://www.hackerearth.com/submission/1349171/  
+
+812  Aniruddha's Queue    https://www.hackerearth.com/submission/1349166/  
+
+813  PROBLEM 3    https://www.hackerearth.com/submission/1349153/  
+
+814  Irrational Number    https://www.hackerearth.com/submission/1349111/  
+
+815  Chemical Reaction    https://www.hackerearth.com/submission/1346538/  
+
+816  Circles in Rectangles    https://www.hackerearth.com/submission/1346508/  
+
+817  Circles in Rectangles    https://www.hackerearth.com/submission/1344448/  
+
+818  Survey Analysis    https://www.hackerearth.com/submission/1344444/  
+
+823  Coins    https://www.hackerearth.com/submission/1343048/  
+
+829  Equation Solver    https://www.hackerearth.com/submission/1342603/  
+
+830  Munde-di-Kudiya    https://www.hackerearth.com/submission/1341692/  
+
+831  Old keypad in a foreign land    https://www.hackerearth.com/submission/1335633/  
+
+832  Old keypad in a foreign land    https://www.hackerearth.com/submission/1335615/  
+
+833  Old keypad in a foreign land    https://www.hackerearth.com/submission/1335563/  
+
+834  Old keypad in a foreign land    https://www.hackerearth.com/submission/1335558/  
+
+835  Simple Math    https://www.hackerearth.com/submission/1335113/  
+
+836  Verify Palindrome-2    https://www.hackerearth.com/submission/1334032/  
+
+837  Addition Just Got Changed    https://www.hackerearth.com/submission/1334023/  
+
+840  Mystery 6    https://www.hackerearth.com/submission/1332192/  
+
+841  Lucky Number    https://www.hackerearth.com/submission/1332134/  
+
+842  Mystery 7    https://www.hackerearth.com/submission/1332099/  
+
+843  A Summing Punishment!    https://www.hackerearth.com/submission/1328962/  
+
+844  Counting Triangles    https://www.hackerearth.com/submission/1327955/  
+
+845  Date With Avni 2    https://www.hackerearth.com/submission/1327790/  
+
+846  Date With Avni 2    https://www.hackerearth.com/submission/1327590/  
+
+847  Aaryan, Subsequences And Great XOR    https://www.hackerearth.com/submission/1327233/  
+
+849  Palindrome count    https://www.hackerearth.com/submission/1327222/  
+
+850  Palindrome count    https://www.hackerearth.com/submission/1327188/  
+
+851  Stickers    https://www.hackerearth.com/submission/1327081/  
+
+852  Stickers    https://www.hackerearth.com/submission/1326692/  
+
+853  Chandu and his playing area    https://www.hackerearth.com/submission/1318323/  
+
+855  Karan and Strings    https://www.hackerearth.com/submission/1318166/  
+
+857  Find the n'th prime.    https://www.hackerearth.com/submission/1317617/  
+
+861  Frequency Count    https://www.hackerearth.com/submission/1314245/  
+
+863  Invite Friends    https://www.hackerearth.com/submission/1314201/  
+
+864  Beginner's Task    https://www.hackerearth.com/submission/1313018/  
+
+865  Beginner's Task    https://www.hackerearth.com/submission/1313006/  
+
+866  Chocolate    https://www.hackerearth.com/submission/1312979/  
+
+867  Chocolate    https://www.hackerearth.com/submission/1312778/  
+
+868  Pack the balloons    https://www.hackerearth.com/submission/1312749/  
+
+871  The Linear Inequation    https://www.hackerearth.com/submission/1311147/  
+
+872  Candy Counter    https://www.hackerearth.com/submission/1311130/  
+
+875  Xenny and Range Sums    https://www.hackerearth.com/submission/1309852/  
+
+876  Xenny and Range Sums    https://www.hackerearth.com/submission/1309829/  
+
+880  Easy Strings    https://www.hackerearth.com/submission/1309790/  
+
+882  Maximum AND    https://www.hackerearth.com/submission/1309565/  
+
+886  Birthday Party    https://www.hackerearth.com/submission/1307661/  
+
+888  Battle of Stalingrad    https://www.hackerearth.com/submission/1307427/  
+
+889  Problem 1    https://www.hackerearth.com/submission/1306902/  
+
+890  Build a Tunnel    https://www.hackerearth.com/submission/1306877/  
+
+891  Composite Numbers Having 7    https://www.hackerearth.com/submission/1306548/  
+
+892  String Dilemma    https://www.hackerearth.com/submission/1306545/  
+
+893  Problem 3    https://www.hackerearth.com/submission/1306273/  
+
+894  Problem 4    https://www.hackerearth.com/submission/1306269/  
+
+895  Hill Climbing    https://www.hackerearth.com/submission/1306267/  
+
+896  iComplete    https://www.hackerearth.com/submission/1306257/  
+
+897  iComplete    https://www.hackerearth.com/submission/1305740/  
+
+899  Problem 5    https://www.hackerearth.com/submission/1304553/  
+
+900  Word Reversal    https://www.hackerearth.com/submission/1304532/  
+
+901  Amit Chahal's love for Juices and Dhruv Katyal's Astrology.    https://www.hackerearth.com/submission/1304486/  
+
+902  Amit Chahal's love for Juices and Dhruv Katyal's Astrology.    https://www.hackerearth.com/submission/1303807/  
+
+903  The addition problem    https://www.hackerearth.com/submission/1303776/  
+
+910  Xenny and Composite Number    https://www.hackerearth.com/submission/1303135/  
+
+911  Chandu and Daspal-2    https://www.hackerearth.com/submission/1303123/  
+
+913  Arithmancy Challenge    https://www.hackerearth.com/submission/1302765/  
+
+914  Arithmancy Challenge    https://www.hackerearth.com/submission/1302723/  
+
+915  Karan and Prime Numbers    https://www.hackerearth.com/submission/1302674/  
+
+918  Subarray XOR    https://www.hackerearth.com/submission/1302423/  
+
+922  Fun with Factorial    https://www.hackerearth.com/submission/1300926/  
+
+923  Fun with Factorial    https://www.hackerearth.com/submission/1300920/  
+
+924  Fun with Factorial    https://www.hackerearth.com/submission/1300910/  
+
+925  Fun with Factorial    https://www.hackerearth.com/submission/1300903/  
+
+926  Save Patients    https://www.hackerearth.com/submission/1300900/  
+
+927  Compiler Version    https://www.hackerearth.com/submission/1300371/  
+
+928  Trailing Zeros    https://www.hackerearth.com/submission/1300358/  
+
+929  Alien language    https://www.hackerearth.com/submission/1300170/  
+
+930  Alien language    https://www.hackerearth.com/submission/1300140/  
+
+931  The Xperiment    https://www.hackerearth.com/submission/1299871/  
+
+935  Little Deepu and Array    https://www.hackerearth.com/submission/1294336/  
+
+936  Little Deepu and Array    https://www.hackerearth.com/submission/1294334/  
+
+937  Little Deepu and Array    https://www.hackerearth.com/submission/1294286/  
+
+938  Count Enemies    https://www.hackerearth.com/submission/1294265/  
+
+941  Death, the Multiverse and Nothing    https://www.hackerearth.com/submission/1294119/  
+
+942  Finding XOR    https://www.hackerearth.com/submission/1294084/  
+
+943  Find the divisors    https://www.hackerearth.com/submission/1293310/  
+
+944  Little Monty and Fibonacci    https://www.hackerearth.com/submission/1293255/  
+
+945  Little Monty and Fibonacci    https://www.hackerearth.com/submission/1293251/  
+
+946  Little Monty and Fibonacci    https://www.hackerearth.com/submission/1293245/  
+
+949  Baba and Guruji    https://www.hackerearth.com/submission/1288149/  
+
+950  Baba and Guruji    https://www.hackerearth.com/submission/1288069/  
+
+951  Baba and Guruji    https://www.hackerearth.com/submission/1288008/  
+
+952  Baba and Guruji    https://www.hackerearth.com/submission/1287736/  
+
+953  Baba and Guruji    https://www.hackerearth.com/submission/1287669/  
+
+954  Baba and Guruji    https://www.hackerearth.com/submission/1287473/  
+
+956  Captain Choosing    https://www.hackerearth.com/submission/1287084/  
+
+960  What time is it?    https://www.hackerearth.com/submission/1284834/  
+
+961  Exam Time    https://www.hackerearth.com/submission/1284823/  
+
+962  BLACKBOX-1    https://www.hackerearth.com/submission/1284821/  
+
+963  Welcome to Ooty    https://www.hackerearth.com/submission/1284812/  
+
+964  Little Jhool and his breakup    https://www.hackerearth.com/submission/1284809/  
+
+965  Little Jhool and his breakup    https://www.hackerearth.com/submission/1284434/  
+
+966  Mystery 5    https://www.hackerearth.com/submission/1284428/  
+
+967  Mystery 5    https://www.hackerearth.com/submission/1284423/  
+
+968  Maximum Prize    https://www.hackerearth.com/submission/1284337/  
+
+969  Maximum Prize    https://www.hackerearth.com/submission/1283148/  
+
+970  Sherlock holmes and The temple Mystery    https://www.hackerearth.com/submission/1283140/  
+
+971  Unique Strings    https://www.hackerearth.com/submission/1283133/  
+
+972  Problem 8    https://www.hackerearth.com/submission/1283122/  
+
+973  Little Jhool and psychic powers    https://www.hackerearth.com/submission/1282599/  
+
+974  Little Jhool and psychic powers    https://www.hackerearth.com/submission/1282533/  
+
+975  Little Jhool and psychic powers    https://www.hackerearth.com/submission/1281484/  
+
+978  Easy IPhone    https://www.hackerearth.com/submission/1281469/  
+
+980  Bholu-The Pandit    https://www.hackerearth.com/submission/1281447/  
+
+981  String and primes    https://www.hackerearth.com/submission/1281438/  
+
+983  Darshak and its Co-Primes    https://www.hackerearth.com/submission/1279699/  
+
+984  Xenny and Uniqueness    https://www.hackerearth.com/submission/1278507/  
+
+985  The Ghost Open!    https://www.hackerearth.com/submission/1278050/  
+
+987  The Ghost Open!    https://www.hackerearth.com/submission/1278034/  
+
+988  Bob's Journey    https://www.hackerearth.com/submission/1277830/  
+
+989  Vaishnav and Factorials    https://www.hackerearth.com/submission/1277822/  
+
+990  Finding pairs    https://www.hackerearth.com/submission/1277788/  
+
+991  Finding pairs    https://www.hackerearth.com/submission/1277784/  
+
+994  Finding pairs    https://www.hackerearth.com/submission/1275447/  
+
+995  Karan and his Sticker Collection    https://www.hackerearth.com/submission/1275425/  
+
+998  Babai and Diti    https://www.hackerearth.com/submission/1273092/  
+
+999  My girlfriend and her love for cats    https://www.hackerearth.com/submission/1272926/  
+
+1000  My girlfriend and her love for cats    https://www.hackerearth.com/submission/1272893/  
+
+1002  My girlfriend and her love for cats    https://www.hackerearth.com/submission/1272837/  
+
+1005  Mirror of Mahatma Gandhi    https://www.hackerearth.com/submission/1270183/  
+
+1006  Sherlock and Date    https://www.hackerearth.com/submission/1269115/  
+
+1007  Sherlock and Date    https://www.hackerearth.com/submission/1269063/  
+
+1009  Sherlock and Date    https://www.hackerearth.com/submission/1269020/  
+
+1010  Sherlock and Date    https://www.hackerearth.com/submission/1268956/  
+
+1011  Sherlock and Date    https://www.hackerearth.com/submission/1268950/  
+
+1012  Sherlock and Date    https://www.hackerearth.com/submission/1268893/  
+
+1014  String Weight    https://www.hackerearth.com/submission/1268798/  
+
+1015  Roy's Chocolates    https://www.hackerearth.com/submission/1268763/  
+
+1016  Roy's Chocolates    https://www.hackerearth.com/submission/1268352/  
+
+1017  Roy's Chocolates    https://www.hackerearth.com/submission/1268310/  
+
+1018  Roy's Chocolates    https://www.hackerearth.com/submission/1267905/  
+
+1019  Cypher    https://www.hackerearth.com/submission/1267695/  
+
+1020  Coin Group    https://www.hackerearth.com/submission/1267637/  
+
+1021  Coin Group    https://www.hackerearth.com/submission/1265841/  
+
+1022  Coin Group    https://www.hackerearth.com/submission/1265807/  
+
+1023  Noodle Jump    https://www.hackerearth.com/submission/1265796/  
+
+1024  Noodle Jump    https://www.hackerearth.com/submission/1265694/  
+
+1025  Noodle Jump    https://www.hackerearth.com/submission/1265692/  
+
+1026  Noodle Jump    https://www.hackerearth.com/submission/1265681/  
+
+1027  Finding numbers    https://www.hackerearth.com/submission/1265416/  
+
+1028  A Needle in the Haystack    https://www.hackerearth.com/submission/1265362/  
+
+1033  Th Ultimate Digit    https://www.hackerearth.com/submission/1265171/  
+
+1039  Bajirao's Rescue Operation    https://www.hackerearth.com/submission/1260009/  
+
+1040  Little Jhool and the magical jewels!    https://www.hackerearth.com/submission/1259898/  
+
+1041  Find the multiples (Golf)    https://www.hackerearth.com/submission/1259842/  
+
+1042  Find the multiples (Golf)    https://www.hackerearth.com/submission/1259829/  
+
+1045  In love with primes    https://www.hackerearth.com/submission/1259538/  
+
+1051  Minimal Combinatorial    https://www.hackerearth.com/submission/1258559/  
+
+1052  Minimal Combinatorial    https://www.hackerearth.com/submission/1256212/  
+
+1053  Life, the Universe, and Everything    https://www.hackerearth.com/submission/1256211/  
+
+1054  Multiple Sum    https://www.hackerearth.com/submission/1256196/  
+
+1055  Sort    https://www.hackerearth.com/submission/1256018/  
+
+1056  Xenny and Exchange    https://www.hackerearth.com/submission/1255920/  
+
+1057  Climbing Stairs    https://www.hackerearth.com/submission/1255913/  
+
+1058  Climbing Stairs    https://www.hackerearth.com/submission/1255860/  
+
+1060  Subset XOR    https://www.hackerearth.com/submission/1255353/  
+
+1064  Karan and Even Numbers - Reloaded    https://www.hackerearth.com/submission/1255193/  
+
+1065  Karan and Even Numbers - Reloaded    https://www.hackerearth.com/submission/1254934/  
+
+1066  Palindromic Numbers    https://www.hackerearth.com/submission/1254906/  
+
+1069  Karan and Even Numbers    https://www.hackerearth.com/submission/1250082/  
+
+1070  Climbing Stairs    https://www.hackerearth.com/submission/1250078/  
+
+1071  Game of survival    https://www.hackerearth.com/submission/1250076/  
+
+1074  Game of survival    https://www.hackerearth.com/submission/1249963/  
+
+1079  NOBITA AND STRING    https://www.hackerearth.com/submission/1249323/  
+
+1084  Find The Ring    https://www.hackerearth.com/submission/1245517/  
+
+1085  Password    https://www.hackerearth.com/submission/1245513/  
+
+1088  Climbing Stairs    https://www.hackerearth.com/submission/1244520/  
+
+1089  Climbing Stairs    https://www.hackerearth.com/submission/1244519/  
+
+1090  Climbing Stairs    https://www.hackerearth.com/submission/1244518/  
+
+1095  Reversing a number    https://www.hackerearth.com/submission/1242292/  
+
+1096  Matrix Multiplication    https://www.hackerearth.com/submission/1242281/  
+
+1099  Flower's Arrangement    https://www.hackerearth.com/submission/1242177/  
+
+1100  Flower's Arrangement    https://www.hackerearth.com/submission/1242174/  
+
+1104  Subset AND    https://www.hackerearth.com/submission/1240947/  
+
+1105  Subset AND    https://www.hackerearth.com/submission/1238326/  
+
+1116  Ankit and Numbers    https://www.hackerearth.com/submission/1233182/  
+
+1117  Sherlock and XOR    https://www.hackerearth.com/submission/1233119/  
+
+1119  Jim's Selection    https://www.hackerearth.com/submission/1232960/  
+
+1122  Pattern    https://www.hackerearth.com/submission/1232928/  
+
+1124  Sum Of Digits    https://www.hackerearth.com/submission/1228701/  
+
+1125  Sum Of Digits    https://www.hackerearth.com/submission/1228414/  
+
+1127  Sum Of Digits    https://www.hackerearth.com/submission/1222463/  
+
+1128  Hell of a Day    https://www.hackerearth.com/submission/1222424/  
+
+1130  Strange addition    https://www.hackerearth.com/submission/1222336/  
+
+1140  Rest in peace - 21-1!    https://www.hackerearth.com/submission/494540/  
+
