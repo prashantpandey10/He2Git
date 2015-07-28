@@ -4,9 +4,9 @@
 ##Script Made to scrape all my Hackerearth solutions (close to 1200 at the time of writing)
 
 #Purpose
-       Wanted to post all my HackerEarth solutions
-       My solutions can be found at https://www.hackerearth.com/users/prashantpandeyfun10/
-       to Github . But as I had close to 1200 solutions I thought of automating it and make it a little fun!
+       Wanted to post all my HackerEarth solutions to Github
+       My solutions can be found at https://www.hackerearth.com/users/prashantpandeyfun10/ . 
+       But as I had close to 1200 solutions I thought of automating it and make it a little fun!
 
 #How it is different?
     HackerEarth loads the content dynamically and when you scroll down for 5 times 
