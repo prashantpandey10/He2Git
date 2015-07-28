@@ -26,5 +26,3 @@
 # Help?
     Please feel free to drop me a mail or anything. And please suggest some improvements. 
     Obviously this code may be rubbish for some people and awesome for some people!
-    
- # Enjoy  
