@@ -4,7 +4,8 @@
 ##Script Made to scrape all my Hackerearth solutions (close to 1200 at the time of writing)
 
 #Purpose
-       Wanted to post all my [HackerEarth solutions](https://www.hackerearth.com/users/prashantpandeyfun10/)
+       Wanted to post all my HackerEarth solutions
+       My solutions can be found at https://www.hackerearth.com/users/prashantpandeyfun10/
        to Github . But as I had close to 1200 solutions I thought of automating it and make it a little fun!
 
 #How it is different?
@@ -19,10 +20,7 @@
     used Firefox driver of Selenium.
     For some reason Chrome was a pain in a** to work with. So YA! choosing and pondering 
     upon the stack prior to jump on coding is one I learnt.
-    
-    Was suppose to use 
-    [PyGithub](https://github.com/PyGithub/PyGithub) and 
-    [gitpython](http://gitpython.readthedocs.org/en/latest/tutorial.html)
+    Was suppose to use PyGithub and gitpython
     but I thought of leaving that for a while as of now.
     
 # Help?
