@@ -17,11 +17,13 @@
     I have used Selenium (python api) to do all the scrolling and clicking and have used Firefox driver of Selenium.
     For some reason Chrome was a pain in a** to work with. So YA! choosing and pondering upon the stack prior to jump
     on coding is one I learnt.
-    Was suppose to use [PyGithub](https://github.com/PyGithub/PyGithub) and [gitpython](http://gitpython.readthedocs.org/en/latest/tutorial.html)
+    Was suppose to use [PyGithub](https://github.com/PyGithub/PyGithub) and 
+    
+    [gitpython](http://gitpython.readthedocs.org/en/latest/tutorial.html)
     but I thought of leaving that for a while as of now.
     
 # Help?
     Please feel free to drop me a mail or anything. And please suggest some improvements. Obviously this code may be rubbish 
     for some people and awesome for some people!
     
-  Enjoy  
+ # Enjoy  
