@@ -8,6 +8,10 @@
        My solutions can be found at https://www.hackerearth.com/users/prashantpandeyfun10/ . 
        But as I had close to 1200 solutions I thought of automating it and make it a little fun!
 
+#Prerequisites
+       You should have firefox install. You can even do that with Chrome but Firefox is better.
+       And selenium (for python) too.
+ 
 #How it is different?
     HackerEarth loads the content dynamically and when you scroll down for 5 times 
     you see a "View More" button which
