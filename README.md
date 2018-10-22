@@ -1,25 +1,25 @@
 # He2Git
 
 
-##Script Made to scrape all my Hackerearth solutions (close to 1200 at the time of writing)
+## Script Made to scrape all my Hackerearth solutions (close to 1200 at the time of writing)
 
-#Purpose
+# Purpose
        Wanted to post all my HackerEarth solutions to Github
        My solutions can be found at https://www.hackerearth.com/users/prashantpandeyfun10/ . 
        But as I had close to 1200 solutions I thought of automating it and make it a little fun!
 
-#Prerequisites
+# Prerequisites
        You should have firefox install. You can even do that with Chrome but Firefox is better.
        And selenium (for python) too.
  
-#How it is different?
+# How it is different?
     HackerEarth loads the content dynamically and when you scroll down for 5 times 
     you see a "View More" button which
     when clicked loads more data. So the whole challenge was to automate scrolling 
     and clicking on this "View More"
     button.
     
-#Stack used
+# Stack used
     I have used Selenium (python api) to do all the scrolling and clicking and have 
     used Firefox driver of Selenium.
     For some reason Chrome was a pain in a** to work with. So YA! choosing and pondering 
